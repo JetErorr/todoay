@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todoay/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/todoay/static/js/main.471e6d7c.chunk.js",
+    "main.js.map": "/todoay/static/js/main.471e6d7c.chunk.js.map",
+    "runtime-main.js": "/todoay/static/js/runtime-main.b8eb68ff.js",
+    "runtime-main.js.map": "/todoay/static/js/runtime-main.b8eb68ff.js.map",
+    "static/js/2.9012cf88.chunk.js": "/todoay/static/js/2.9012cf88.chunk.js",
+    "static/js/2.9012cf88.chunk.js.map": "/todoay/static/js/2.9012cf88.chunk.js.map",
+    "static/js/3.2aebe3ba.chunk.js": "/todoay/static/js/3.2aebe3ba.chunk.js",
+    "static/js/3.2aebe3ba.chunk.js.map": "/todoay/static/js/3.2aebe3ba.chunk.js.map",
+    "index.html": "/todoay/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/todoay/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9012cf88.chunk.js.LICENSE.txt": "/todoay/static/js/2.9012cf88.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/todoay/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8eb68ff.js",
+    "static/js/2.9012cf88.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.471e6d7c.chunk.js"
+  ]
+}
